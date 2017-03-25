@@ -1,6 +1,6 @@
 # These are all the cops that are enabled in the default configuration.
 AllCops:
-  TargetRubyVersion: 2.3.3
+  TargetRubyVersion: 2.3
   Exclude:
     - vendor/**/*
     - db/schema.rb
